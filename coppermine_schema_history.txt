@@ -1,0 +1,1975 @@
+------------------------------------------------------------------------
+r7613 | gaugau | 2010-06-03 04:30:19 -0400 (qui, 03 jun 2010) | 1 line
+
+Updated version count from cpg1.4.27 to cpg1.4.28 in subversion repository as a preparation for a possible future release
+
+Index: schema.sql
+===================================================================
+--- schema.sql	(revision 7612)
++++ schema.sql	(revision 7613)
+@@ -9,7 +9,7 @@
+ ##  as published by the Free Software Foundation.
+ ##  
+ ##  ********************************************
+-##  Coppermine version: 1.4.27
++##  Coppermine version: 1.4.28
+ ##  $HeadURL$
+ ##  $Revision$
+ ##  $Author$
+
+------------------------------------------------------------------------
+r7334 | gaugau | 2010-03-23 03:09:04 -0400 (ter, 23 mar 2010) | 1 line
+
+Updated version count from cpg1.4.26 to cpg1.4.27 in subversion repository as a preparation for a possible future release
+
+Index: schema.sql
+===================================================================
+--- schema.sql	(revision 7333)
++++ schema.sql	(revision 7334)
+@@ -9,7 +9,7 @@
+ ##  as published by the Free Software Foundation.
+ ##  
+ ##  ********************************************
+-##  Coppermine version: 1.4.26
++##  Coppermine version: 1.4.27
+ ##  $HeadURL$
+ ##  $Revision$
+ ##  $Author$
+
+------------------------------------------------------------------------
+r6987 | gaugau | 2010-01-02 06:46:39 -0400 (sáb, 02 jan 2010) | 1 line
+
+Updated header information to reflect new year
+
+Index: schema.sql
+===================================================================
+--- schema.sql	(revision 6986)
++++ schema.sql	(revision 6987)
+@@ -1,8 +1,8 @@
+ ##  ********************************************
+ ##  Coppermine Photo Gallery
+ ##  ************************
+-##  Copyright (c) 2003-2009 Coppermine Dev Team
+-##  v1.1 originally written by Gregory DEMAR
++##  Copyright (c) 2003-2010 Coppermine Dev Team
++##  v1.0 originally written by Gregory Demar
+ ##
+ ##  This program is free software; you can redistribute it and/or modify
+ ##  it under the terms of the GNU General Public License version 3
+
+------------------------------------------------------------------------
+r6301 | gaugau | 2009-07-13 05:05:44 -0400 (seg, 13 jul 2009) | 1 line
+
+Updated version count from cpg1.4.25 to cpg1.4.26 in subversion repository as a preparation for a possible future release
+
+Index: schema.sql
+===================================================================
+--- schema.sql	(revision 6300)
++++ schema.sql	(revision 6301)
+@@ -9,7 +9,7 @@
+ ##  as published by the Free Software Foundation.
+ ##  
+ ##  ********************************************
+-##  Coppermine version: 1.4.25
++##  Coppermine version: 1.4.26
+ ##  $HeadURL$
+ ##  $Revision$
+ ##  $Author$
+
+------------------------------------------------------------------------
+r5997 | gaugau | 2009-05-26 02:43:24 -0400 (ter, 26 mai 2009) | 1 line
+
+Updated version count from cpg1.4.24 to cpg1.4.25 in subversion repository as a preparation for a possible future release
+
+Index: schema.sql
+===================================================================
+--- schema.sql	(revision 5996)
++++ schema.sql	(revision 5997)
+@@ -9,7 +9,7 @@
+ ##  as published by the Free Software Foundation.
+ ##  
+ ##  ********************************************
+-##  Coppermine version: 1.4.24
++##  Coppermine version: 1.4.25
+ ##  $HeadURL$
+ ##  $Revision$
+ ##  $Author$
+
+------------------------------------------------------------------------
+r5969 | gaugau | 2009-05-21 16:03:33 -0400 (qui, 21 mai 2009) | 1 line
+
+Updated version count from cpg1.4.23 to cpg1.4.24 in subversion repository as a preparation for a possible future release
+
+Index: schema.sql
+===================================================================
+--- schema.sql	(revision 5968)
++++ schema.sql	(revision 5969)
+@@ -9,7 +9,7 @@
+ ##  as published by the Free Software Foundation.
+ ##  
+ ##  ********************************************
+-##  Coppermine version: 1.4.23
++##  Coppermine version: 1.4.24
+ ##  $HeadURL$
+ ##  $Revision$
+ ##  $Author$
+
+------------------------------------------------------------------------
+r5891 | gaugau | 2009-05-01 17:44:32 -0400 (sex, 01 mai 2009) | 1 line
+
+Updated version count from cpg1.4.22 to cpg1.4.23 in subversion repository as a preparation for a possible future release
+
+Index: schema.sql
+===================================================================
+--- schema.sql	(revision 5890)
++++ schema.sql	(revision 5891)
+@@ -9,7 +9,7 @@
+ ##  as published by the Free Software Foundation.
+ ##  
+ ##  ********************************************
+-##  Coppermine version: 1.4.22
++##  Coppermine version: 1.4.23
+ ##  $HeadURL$
+ ##  $Revision$
+ ##  $Author$
+
+------------------------------------------------------------------------
+r5740 | gaugau | 2009-03-05 03:27:01 -0400 (qui, 05 mar 2009) | 1 line
+
+Updated version count from cpg1.4.21 to cpg1.4.22 in subversion repository as a preparation for the next release
+
+Index: schema.sql
+===================================================================
+--- schema.sql	(revision 5739)
++++ schema.sql	(revision 5740)
+@@ -9,7 +9,7 @@
+ ##  as published by the Free Software Foundation.
+ ##  
+ ##  ********************************************
+-##  Coppermine version: 1.4.21
++##  Coppermine version: 1.4.22
+ ##  $HeadURL$
+ ##  $Revision$
+ ##  $Author$
+
+------------------------------------------------------------------------
+r5728 | gaugau | 2009-03-02 04:25:17 -0400 (seg, 02 mar 2009) | 1 line
+
+Updated version count as a preparation for the release of cpg1.4.21
+
+Index: schema.sql
+===================================================================
+--- schema.sql	(revision 5727)
++++ schema.sql	(revision 5728)
+@@ -9,7 +9,7 @@
+ ##  as published by the Free Software Foundation.
+ ##  
+ ##  ********************************************
+-##  Coppermine version: 1.4.20
++##  Coppermine version: 1.4.21
+ ##  $HeadURL$
+ ##  $Revision$
+ ##  $Author$
+
+------------------------------------------------------------------------
+r5705 | gaugau | 2009-01-28 05:52:43 -0400 (qua, 28 jan 2009) | 1 line
+
+Updated header to reflect new year
+
+Index: schema.sql
+===================================================================
+--- schema.sql	(revision 5704)
++++ schema.sql	(revision 5705)
+@@ -1,7 +1,7 @@
+ ##  ********************************************
+ ##  Coppermine Photo Gallery
+ ##  ************************
+-##  Copyright (c) 2003-2008 Dev Team
++##  Copyright (c) 2003-2009 Coppermine Dev Team
+ ##  v1.1 originally written by Gregory DEMAR
+ ##
+ ##  This program is free software; you can redistribute it and/or modify
+
+------------------------------------------------------------------------
+r4784 | gaugau | 2008-08-07 02:33:20 -0400 (qui, 07 ago 2008) | 1 line
+
+Updated version count from cpg1.4.19 to cpg1.4.20 in subversion repository as a preparation for the next release
+
+Index: schema.sql
+===================================================================
+--- schema.sql	(revision 4783)
++++ schema.sql	(revision 4784)
+@@ -9,7 +9,7 @@
+ ##  as published by the Free Software Foundation.
+ ##  
+ ##  ********************************************
+-##  Coppermine version: 1.4.19
++##  Coppermine version: 1.4.20
+ ##  $HeadURL$
+ ##  $Revision$
+ ##  $Author$
+
+------------------------------------------------------------------------
+r4392 | gaugau | 2008-04-16 03:25:35 -0400 (qua, 16 abr 2008) | 1 line
+
+Updated version count from cpg1.4.18 to cpg1.4.19 in subversion repository as a preparation for a possible future release
+
+Index: schema.sql
+===================================================================
+--- schema.sql	(revision 4391)
++++ schema.sql	(revision 4392)
+@@ -9,7 +9,7 @@
+ ##  as published by the Free Software Foundation.
+ ##  
+ ##  ********************************************
+-##  Coppermine version: 1.4.18
++##  Coppermine version: 1.4.19
+ ##  $HeadURL$
+ ##  $Revision$
+ ##  $Author$
+
+------------------------------------------------------------------------
+r4380 | gaugau | 2008-04-12 06:00:19 -0400 (sáb, 12 abr 2008) | 1 line
+
+Updated version count from cpg1.4.17 to cpg1.4.18 in subversion repository as a preparation for the next release
+
+Index: schema.sql
+===================================================================
+--- schema.sql	(revision 4379)
++++ schema.sql	(revision 4380)
+@@ -9,7 +9,7 @@
+ ##  as published by the Free Software Foundation.
+ ##  
+ ##  ********************************************
+-##  Coppermine version: 1.4.17
++##  Coppermine version: 1.4.18
+ ##  $HeadURL$
+ ##  $Revision$
+ ##  $Author$
+
+------------------------------------------------------------------------
+r4311 | gaugau | 2008-03-02 04:51:36 -0400 (dom, 02 mar 2008) | 1 line
+
+Updated version count from cpg1.4.16 to cpg1.4.17 in subversion repository as a preparation for a possible future release
+
+Index: schema.sql
+===================================================================
+--- schema.sql	(revision 4310)
++++ schema.sql	(revision 4311)
+@@ -9,7 +9,7 @@
+ ##  as published by the Free Software Foundation.
+ ##  
+ ##  ********************************************
+-##  Coppermine version: 1.4.16
++##  Coppermine version: 1.4.17
+ ##  $HeadURL$
+ ##  $Revision$
+ ##  $Author$
+
+------------------------------------------------------------------------
+r4233 | gaugau | 2008-02-02 04:23:58 -0400 (sáb, 02 fev 2008) | 1 line
+
+Updated version count
+
+Index: schema.sql
+===================================================================
+--- schema.sql	(revision 4232)
++++ schema.sql	(revision 4233)
+@@ -9,7 +9,7 @@
+ ##  as published by the Free Software Foundation.
+ ##  
+ ##  ********************************************
+-##  Coppermine version: 1.4.15
++##  Coppermine version: 1.4.16
+ ##  $HeadURL$
+ ##  $Revision$
+ ##  $Author$
+
+------------------------------------------------------------------------
+r4223 | gaugau | 2008-01-26 06:32:19 -0400 (sáb, 26 jan 2008) | 1 line
+
+Updated file header to reflect the new year 2008
+
+Index: schema.sql
+===================================================================
+--- schema.sql	(revision 4222)
++++ schema.sql	(revision 4223)
+@@ -1,7 +1,7 @@
+ ##  ********************************************
+ ##  Coppermine Photo Gallery
+ ##  ************************
+-##  Copyright (c) 2003-2007 Coppermine Dev Team
++##  Copyright (c) 2003-2008 Dev Team
+ ##  v1.1 originally written by Gregory DEMAR
+ ##
+ ##  This program is free software; you can redistribute it and/or modify
+
+------------------------------------------------------------------------
+r4090 | gaugau | 2007-11-29 08:56:01 -0400 (qui, 29 nov 2007) | 2 lines
+
+Updated version count to cpg1.4.15.
+Added SVN-property "HeadURL"
+
+Index: schema.sql
+===================================================================
+--- schema.sql	(revision 4089)
++++ schema.sql	(revision 4090)
+@@ -9,8 +9,8 @@
+ ##  as published by the Free Software Foundation.
+ ##  
+ ##  ********************************************
+-##  Coppermine version: 1.4.14
+-##  $Source$
++##  Coppermine version: 1.4.15
++##  $HeadURL$
+ ##  $Revision$
+ ##  $Author$
+ ##  $Date$
+
+Property changes on: schema.sql
+___________________________________________________________________
+Modified: svn:keywords
+## -1 +1 ##
+-Author Date Id Revision
+\ No newline at end of property
++Author Date Id Revision HeadURL
+\ No newline at end of property
+
+------------------------------------------------------------------------
+r3966 | gaugau | 2007-09-17 02:53:13 -0400 (seg, 17 set 2007) | 1 line
+
+Updated version count from cpg1.4.13 to cpg1.4.14 in subversion repository as a preparation for a possible future release
+
+Index: schema.sql
+===================================================================
+--- schema.sql	(revision 3965)
++++ schema.sql	(revision 3966)
+@@ -9,7 +9,7 @@
+ ##  as published by the Free Software Foundation.
+ ##  
+ ##  ********************************************
+-##  Coppermine version: 1.4.13
++##  Coppermine version: 1.4.14
+ ##  $Source$
+ ##  $Revision$
+ ##  $Author$
+
+------------------------------------------------------------------------
+r3837 | gaugau | 2007-08-16 12:56:06 -0400 (qui, 16 ago 2007) | 1 line
+
+Updated license reference from GNU GPL v2 to GNU GPL v3
+
+Index: schema.sql
+===================================================================
+--- schema.sql	(revision 3836)
++++ schema.sql	(revision 3837)
+@@ -5,9 +5,9 @@
+ ##  v1.1 originally written by Gregory DEMAR
+ ##
+ ##  This program is free software; you can redistribute it and/or modify
+-##  it under the terms of the GNU General Public License as published by
+-##  the Free Software Foundation; either version 2 of the License, or
+-##  (at your option) any later version.
++##  it under the terms of the GNU General Public License version 3
++##  as published by the Free Software Foundation.
++##  
+ ##  ********************************************
+ ##  Coppermine version: 1.4.13
+ ##  $Source$
+
+------------------------------------------------------------------------
+r3670 | gaugau | 2007-07-04 00:55:06 -0400 (qua, 04 jul 2007) | 1 line
+
+Updated version count from cpg1.4.12 to cpg1.4.13 in subversion repository as a preparation for a possible future release
+
+Index: schema.sql
+===================================================================
+--- schema.sql	(revision 3669)
++++ schema.sql	(revision 3670)
+@@ -9,7 +9,7 @@
+ ##  the Free Software Foundation; either version 2 of the License, or
+ ##  (at your option) any later version.
+ ##  ********************************************
+-##  Coppermine version: 1.4.12
++##  Coppermine version: 1.4.13
+ ##  $Source$
+ ##  $Revision$
+ ##  $Author$
+
+------------------------------------------------------------------------
+r3636 | gaugau | 2007-06-29 05:35:30 -0400 (sex, 29 jun 2007) | 1 line
+
+Updated version count from cpg1.4.11 to cpg1.4.12 in subversion repository as a preparation for a possible future release.
+
+Index: schema.sql
+===================================================================
+--- schema.sql	(revision 3635)
++++ schema.sql	(revision 3636)
+@@ -9,7 +9,7 @@
+ ##  the Free Software Foundation; either version 2 of the License, or
+ ##  (at your option) any later version.
+ ##  ********************************************
+-##  Coppermine version: 1.4.11
++##  Coppermine version: 1.4.12
+ ##  $Source$
+ ##  $Revision$
+ ##  $Author$
+
+------------------------------------------------------------------------
+r3483 | gaugau | 2007-03-18 10:05:09 -0400 (dom, 18 mar 2007) | 1 line
+
+Renaming stable folder to "cpg1.4.x"
+
+Index: schema.sql
+===================================================================
+--- schema.sql	(nonexistent)
++++ schema.sql	(revision 3483)
+@@ -0,0 +1,354 @@
++##  ********************************************
++##  Coppermine Photo Gallery
++##  ************************
++##  Copyright (c) 2003-2007 Coppermine Dev Team
++##  v1.1 originally written by Gregory DEMAR
++##
++##  This program is free software; you can redistribute it and/or modify
++##  it under the terms of the GNU General Public License as published by
++##  the Free Software Foundation; either version 2 of the License, or
++##  (at your option) any later version.
++##  ********************************************
++##  Coppermine version: 1.4.11
++##  $Source$
++##  $Revision$
++##  $Author$
++##  $Date$
++##  ********************************************
++
++#
++# Table structure for table `CPG_sessions`
++#
++
++CREATE TABLE IF NOT EXISTS CPG_sessions (
++  session_id varchar(40) NOT NULL default '',
++  user_id int(11) default '0',
++  time int(11) default NULL,
++  remember int(1) default '0',
++  PRIMARY KEY (session_id)
++) TYPE=MyISAM COMMENT='Used to store sessions';
++# --------------------------------------------------------
++
++#
++# Table structure for table `CPG_albums`
++#
++
++CREATE TABLE CPG_albums (
++  aid int(11) NOT NULL auto_increment,
++  title varchar(255) NOT NULL default '',
++  description text NOT NULL,
++  visibility int(11) NOT NULL default '0',
++  uploads enum('YES','NO') NOT NULL default 'NO',
++  comments enum('YES','NO') NOT NULL default 'YES',
++  votes enum('YES','NO') NOT NULL default 'YES',
++  pos int(11) NOT NULL default '0',
++  category int(11) NOT NULL default '0',
++  thumb int(11) NOT NULL default '0',
++  keyword VARCHAR( 50 ),
++  alb_password VARCHAR( 32 ),
++  alb_password_hint TEXT,
++  PRIMARY KEY  (aid),
++  KEY alb_category (category)
++) TYPE=MyISAM COMMENT='Used to store albums';
++# --------------------------------------------------------
++
++#
++# Table structure for table `CPG_categories`
++#
++
++CREATE TABLE CPG_categories (
++  cid int(11) NOT NULL auto_increment,
++  owner_id int(11) NOT NULL default '0',
++  name varchar(255) NOT NULL default '',
++  description text NOT NULL,
++  pos int(11) NOT NULL default '0',
++  parent int(11) NOT NULL default '0',
++  thumb int(11) NOT NULL default '0',
++  PRIMARY KEY  (cid),
++  KEY cat_parent (parent),
++  KEY cat_pos (pos),
++  KEY cat_owner_id (owner_id)
++) TYPE=MyISAM COMMENT='Used to store categories';
++# --------------------------------------------------------
++
++#
++# Table structure for table `CPG_comments`
++#
++
++CREATE TABLE CPG_comments (
++  pid mediumint(10) NOT NULL default '0',
++  msg_id mediumint(10) NOT NULL auto_increment,
++  msg_author varchar(25) NOT NULL default '',
++  msg_body text NOT NULL,
++  msg_date datetime NOT NULL default '0000-00-00 00:00:00',
++  msg_raw_ip tinytext,
++  msg_hdr_ip tinytext,
++  author_md5_id varchar(32) NOT NULL default '',
++  author_id int(11) NOT NULL default '0',
++  PRIMARY KEY  (msg_id),
++  KEY com_pic_id (pid)
++) TYPE=MyISAM COMMENT='Used to store comments made on pics';
++# --------------------------------------------------------
++
++#
++# Table structure for table `CPG_config`
++#
++
++CREATE TABLE CPG_config (
++  name varchar(40) NOT NULL default '',
++  value varchar(255) NOT NULL default '',
++  PRIMARY KEY  (name)
++) TYPE=MyISAM COMMENT='Used to store the configuration options';
++# --------------------------------------------------------
++
++#
++# Table structure for table `CPG_pictures`
++#
++
++CREATE TABLE CPG_pictures (
++  pid int(11) NOT NULL auto_increment,
++  aid int(11) NOT NULL default '0',
++  filepath varchar(255) NOT NULL default '',
++  filename varchar(255) NOT NULL default '',
++  filesize int(11) NOT NULL default '0',
++  total_filesize int(11) NOT NULL default '0',
++  pwidth smallint(6) NOT NULL default '0',
++  pheight smallint(6) NOT NULL default '0',
++  hits int(10) NOT NULL default '0',
++  mtime datetime NOT NULL default '0000-00-00 00:00:00' ,
++  ctime int(11) NOT NULL default '0',
++  owner_id int(11) NOT NULL default '0',
++  owner_name varchar(40) NOT NULL default '',
++  pic_rating int(11) NOT NULL default '0',
++  votes int(11) NOT NULL default '0',
++  title varchar(255) NOT NULL default '',
++  caption text NOT NULL,
++  keywords varchar(255) NOT NULL default '',
++  approved enum('YES','NO') NOT NULL default 'NO',
++  galleryicon int(11) NOT NULL default '0',
++  user1 varchar(255) NOT NULL default '',
++  user2 varchar(255) NOT NULL default '',
++  user3 varchar(255) NOT NULL default '',
++  user4 varchar(255) NOT NULL default '',
++  url_prefix tinyint(4) NOT NULL default '0',
++#  randpos int(11) NOT NULL default '0',
++  pic_raw_ip tinytext,
++  pic_hdr_ip tinytext,
++  lasthit_ip tinytext,
++  PRIMARY KEY  (pid),
++  KEY owner_id (owner_id),
++  KEY pic_hits (hits),
++  KEY pic_rate (pic_rating),
++  KEY aid_approved (aid,approved),
++#  KEY randpos (randpos),
++  KEY pic_aid (aid),
++  position INT(11) NOT NULL default '0',
++  FULLTEXT KEY search (title,caption,keywords,filename)
++) TYPE=MyISAM COMMENT='Used to store data about individual pics';
++# --------------------------------------------------------
++
++#
++# Table structure for table `CPG_usergroups`
++#
++
++CREATE TABLE CPG_usergroups (
++  group_id int(11) NOT NULL auto_increment,
++  group_name varchar(255) NOT NULL default '',
++  group_quota int(11) NOT NULL default '0',
++  has_admin_access tinyint(4) NOT NULL default '0',
++  can_rate_pictures tinyint(4) NOT NULL default '0',
++  can_send_ecards tinyint(4) NOT NULL default '0',
++  can_post_comments tinyint(4) NOT NULL default '0',
++  can_upload_pictures tinyint(4) NOT NULL default '0',
++  can_create_albums tinyint(4) NOT NULL default '0',
++  pub_upl_need_approval tinyint(4) NOT NULL default '1',
++  priv_upl_need_approval tinyint(4) NOT NULL default '1',
++  upload_form_config tinyint(4) NOT NULL default '3',
++  custom_user_upload tinyint(4) NOT NULL default '0',
++  num_file_upload tinyint(4) NOT NULL default '5',
++  num_URI_upload tinyint(4) NOT NULL default '3',
++  PRIMARY KEY  (group_id)
++) TYPE=MyISAM COMMENT='Used to store user groups';
++# --------------------------------------------------------
++
++#
++# Table structure for table `CPG_users`
++#
++
++CREATE TABLE CPG_users (
++  user_id int(11) NOT NULL auto_increment,
++  user_group int(11) NOT NULL default '2',
++  user_active enum('YES','NO') NOT NULL default 'NO',
++  user_name varchar(25) NOT NULL default '',
++  user_password varchar(40) NOT NULL default '',
++  user_lastvisit datetime NOT NULL default '0000-00-00 00:00:00',
++  user_regdate datetime NOT NULL default '0000-00-00 00:00:00',
++  user_group_list varchar(255) NOT NULL default '',
++  user_email varchar(255) NOT NULL default '',
++  user_profile1 varchar(255) NOT NULL default '',
++  user_profile2 varchar(255) NOT NULL default '',
++  user_profile3 varchar(255) NOT NULL default '',
++  user_profile4 varchar(255) NOT NULL default '',
++  user_profile5 varchar(255) NOT NULL default '',
++  user_profile6 text NOT NULL,
++  user_actkey varchar(32) NOT NULL default '',
++
++  PRIMARY KEY  (user_id),
++  UNIQUE KEY user_name (user_name)
++) TYPE=MyISAM COMMENT='Used to store users, not used when bridged';
++# --------------------------------------------------------
++
++#
++# Table structure for table `CPG_votes`
++#
++
++CREATE TABLE CPG_votes (
++  pic_id mediumint(9) NOT NULL default '0',
++  user_md5_id varchar(32) NOT NULL default '',
++  vote_time int(11) NOT NULL default '0',
++  PRIMARY KEY  (pic_id,user_md5_id)
++) TYPE=MyISAM COMMENT='Stores votes for individual pics';
++#---------------------------------------------------------
++
++#
++# Table structure for table `CPG_banned`
++#
++
++CREATE TABLE CPG_banned (
++        ban_id int(11) NOT NULL auto_increment,
++        user_id int(11) DEFAULT NULL,
++        ip_addr tinytext,
++        expiry datetime DEFAULT NULL,
++        brute_force tinyint(5) NOT NULL default '0',
++        PRIMARY KEY  (ban_id)
++) TYPE=MyISAM COMMENT='Data about banned users';
++#---------------------------------------------------------
++
++#
++# Table structure for table `CPG_exif`
++#
++
++CREATE TABLE CPG_exif (
++  `filename` varchar(255) NOT NULL default '',
++  `exifData` text NOT NULL,
++  UNIQUE KEY `filename` (`filename`)
++) TYPE=MyISAM COMMENT='Stores EXIF data from individual pics';
++# --------------------------------------------------------
++
++#
++# Table structure for table `CPG_filetypes`
++#
++
++CREATE TABLE IF NOT EXISTS CPG_filetypes (
++  extension char(7) NOT NULL default '',
++  mime char(30) default NULL,
++  content char(15) default NULL,
++  player varchar(5) default NULL,
++  PRIMARY KEY (extension)
++) TYPE=MyISAM COMMENT='Used to store the file extensions';
++# --------------------------------------------------------
++
++#
++# Table structure for table `CPG_ecards`
++#
++
++CREATE TABLE CPG_ecards (
++  eid int(11) NOT NULL auto_increment,
++  sender_name varchar(50) NOT NULL default '',
++  sender_email text NOT NULL,
++  recipient_name varchar(50) NOT NULL default '',
++  recipient_email text NOT NULL,
++  link text NOT NULL,
++  date tinytext NOT NULL,
++  sender_ip tinytext NOT NULL,
++  PRIMARY KEY  (eid)
++) TYPE=MyISAM COMMENT='Used to log ecards';
++# --------------------------------------------------------
++
++#
++# Table structure for table `CPG_plugins`
++#
++
++CREATE TABLE CPG_plugins (
++  plugin_id int(10) unsigned NOT NULL auto_increment,
++  name varchar(64) NOT NULL default '',
++  path varchar(128) NOT NULL default '',
++  priority int(10) unsigned NOT NULL default '0',
++  PRIMARY KEY  (plugin_id),
++  UNIQUE KEY name (name),
++  UNIQUE KEY path (path)
++) TYPE=MyISAM COMMENT='Stores the plugins';
++# --------------------------------------------------------
++
++#
++# Table structure for table `CPG_temp_data`
++#
++
++CREATE TABLE IF NOT EXISTS `CPG_temp_data` (
++`unique_ID` CHAR( 8 ) NOT NULL ,
++`encoded_string` BLOB NOT NULL ,
++`timestamp` INT( 11 ) UNSIGNED NOT NULL ,
++PRIMARY KEY ( `unique_ID` )
++) TYPE = MyISAM COMMENT = 'Holds temporary file data for multiple file uploads';
++# --------------------------------------------------------
++
++#
++# Table structure for table `CPG_favpics`
++#
++
++CREATE TABLE `CPG_favpics` (
++`user_id` INT( 11 ) NOT NULL ,
++`user_favpics` TEXT NOT NULL ,
++PRIMARY KEY ( `user_id` )
++) TYPE = MyISAM COMMENT = 'Stores the server side favourites';
++# --------------------------------------------------------
++
++#
++# Table structure for table `CPG_dict`
++#
++CREATE TABLE CPG_dict (
++  keyId bigint(20) NOT NULL auto_increment,
++  keyword varchar(60) NOT NULL default '',
++  PRIMARY KEY  (keyId)
++) TYPE=MyISAM  COMMENT = 'Holds the keyword dictionary';
++# --------------------------------------------------------
++
++#
++# Table structure for table `CPG_bridge`
++#
++
++CREATE TABLE CPG_bridge (
++  name varchar(40) NOT NULL default '0',
++  value varchar(255) NOT NULL default '',
++  UNIQUE KEY name (name)
++) TYPE=MyISAM COMMENT='Stores the bridging data, not used when unbridged';
++# --------------------------------------------------------
++
++#
++# Table structure for table `CPG_vote_stats`
++#
++CREATE TABLE `CPG_vote_stats` (
++  `sid` int(11) NOT NULL auto_increment,
++  `pid` varchar(100) NOT NULL default '',
++  `rating` smallint(6) NOT NULL default '0',
++  `ip` varchar(20) NOT NULL default '',
++  `sdate` bigint(20) NOT NULL default '0',
++  `referer` text NOT NULL,
++  `browser` varchar(255) NOT NULL default '',
++  `os` varchar(50) NOT NULL default '',
++  PRIMARY KEY  (`sid`)
++) TYPE=MyISAM COMMENT='Detailed stats about votes, only used when enabled';
++# --------------------------------------------------------
++
++CREATE TABLE `CPG_hit_stats` (
++  `sid` int(11) NOT NULL auto_increment,
++  `pid` varchar(100) NOT NULL default '',
++  `ip` varchar(20) NOT NULL default '',
++  `search_phrase` varchar(255) NOT NULL default '',
++  `sdate` bigint(20) NOT NULL default '0',
++  `referer` text NOT NULL,
++  `browser` varchar(255) NOT NULL default '',
++  `os` varchar(50) NOT NULL default '',
++  PRIMARY KEY  (`sid`)
++) TYPE = MyISAM COMMENT='Detailed stats about hits, only used when enabled';
++# --------------------------------------------------------
+\ No newline at end of file
+
+Property changes on: schema.sql
+___________________________________________________________________
+Added: svn:eol-style
+## -0,0 +1 ##
++native
+\ No newline at end of property
+Added: svn:keywords
+## -0,0 +1 ##
++Author Date Id Revision
+\ No newline at end of property
+
+------------------------------------------------------------------------
+r3406 | gaugau | 2006-12-27 05:12:12 -0400 (qua, 27 dez 2006) | 1 line
+
+Updated date in copyright notice
+
+Index: schema.sql
+===================================================================
+--- schema.sql	(revision 3405)
++++ schema.sql	(revision 3406)
+@@ -1,7 +1,7 @@
+ ##  ********************************************
+ ##  Coppermine Photo Gallery
+ ##  ************************
+-##  Copyright (c) 2003-2006 Coppermine Dev Team
++##  Copyright (c) 2003-2007 Coppermine Dev Team
+ ##  v1.1 originally written by Gregory DEMAR
+ ##
+ ##  This program is free software; you can redistribute it and/or modify
+
+------------------------------------------------------------------------
+r3338 | gaugau | 2006-11-09 01:12:18 -0400 (qui, 09 nov 2006) | 1 line
+
+Updated version count from cpg1.4.10 to cpg1.4.11 in subversion repository as a preparation for a possible future release
+
+Index: schema.sql
+===================================================================
+--- schema.sql	(revision 3337)
++++ schema.sql	(revision 3338)
+@@ -9,7 +9,7 @@
+ ##  the Free Software Foundation; either version 2 of the License, or
+ ##  (at your option) any later version.
+ ##  ********************************************
+-##  Coppermine version: 1.4.10
++##  Coppermine version: 1.4.11
+ ##  $Source$
+ ##  $Revision$
+ ##  $Author$
+
+------------------------------------------------------------------------
+r3307 | nibbler999 | 2006-10-15 23:04:29 -0400 (dom, 15 out 2006) | 1 line
+
+BLOB and TEXT columns cannot have DEFAULT values
+
+Index: schema.sql
+===================================================================
+--- schema.sql	(revision 3306)
++++ schema.sql	(revision 3307)
+@@ -36,7 +36,7 @@
+ CREATE TABLE CPG_albums (
+   aid int(11) NOT NULL auto_increment,
+   title varchar(255) NOT NULL default '',
+-  description text NOT NULL default '',
++  description text NOT NULL,
+   visibility int(11) NOT NULL default '0',
+   uploads enum('YES','NO') NOT NULL default 'NO',
+   comments enum('YES','NO') NOT NULL default 'YES',
+@@ -190,7 +190,7 @@
+   user_profile3 varchar(255) NOT NULL default '',
+   user_profile4 varchar(255) NOT NULL default '',
+   user_profile5 varchar(255) NOT NULL default '',
+-  user_profile6 text NOT NULL default '',
++  user_profile6 text NOT NULL,
+   user_actkey varchar(32) NOT NULL default '',
+ 
+   PRIMARY KEY  (user_id),
+@@ -217,7 +217,7 @@
+ CREATE TABLE CPG_banned (
+         ban_id int(11) NOT NULL auto_increment,
+         user_id int(11) DEFAULT NULL,
+-        ip_addr tinytext DEFAULT NULL,
++        ip_addr tinytext,
+         expiry datetime DEFAULT NULL,
+         brute_force tinyint(5) NOT NULL default '0',
+         PRIMARY KEY  (ban_id)
+
+------------------------------------------------------------------------
+r3275 | gaugau | 2006-09-03 06:10:47 -0400 (dom, 03 set 2006) | 1 line
+
+Updated version count from cpg1.4.9 to cpg1.4.10
+
+Index: schema.sql
+===================================================================
+--- schema.sql	(revision 3274)
++++ schema.sql	(revision 3275)
+@@ -9,7 +9,7 @@
+ ##  the Free Software Foundation; either version 2 of the License, or
+ ##  (at your option) any later version.
+ ##  ********************************************
+-##  Coppermine version: 1.4.9
++##  Coppermine version: 1.4.10
+ ##  $Source$
+ ##  $Revision$
+ ##  $Author$
+
+------------------------------------------------------------------------
+r3125 | gaugau | 2006-06-16 02:48:03 -0400 (sex, 16 jun 2006) | 1 line
+
+Counted version number up
+
+Index: schema.sql
+===================================================================
+--- schema.sql	(revision 3124)
++++ schema.sql	(revision 3125)
+@@ -9,7 +9,7 @@
+ ##  the Free Software Foundation; either version 2 of the License, or
+ ##  (at your option) any later version.
+ ##  ********************************************
+-##  Coppermine version: 1.4.8
++##  Coppermine version: 1.4.9
+ ##  $Source$
+ ##  $Revision$
+ ##  $Author$
+
+------------------------------------------------------------------------
+r3122 | gaugau | 2006-06-12 01:10:35 -0400 (seg, 12 jun 2006) | 1 line
+
+Added table type info for all tables (thread id 32544)
+
+Index: schema.sql
+===================================================================
+--- schema.sql	(revision 3121)
++++ schema.sql	(revision 3122)
+@@ -27,8 +27,8 @@
+   remember int(1) default '0',
+   PRIMARY KEY (session_id)
+ ) TYPE=MyISAM COMMENT='Used to store sessions';
++# --------------------------------------------------------
+ 
+-
+ #
+ # Table structure for table `CPG_albums`
+ #
+@@ -49,7 +49,7 @@
+   alb_password_hint TEXT,
+   PRIMARY KEY  (aid),
+   KEY alb_category (category)
+-) TYPE=MyISAM;
++) TYPE=MyISAM COMMENT='Used to store albums';
+ # --------------------------------------------------------
+ 
+ #
+@@ -68,7 +68,7 @@
+   KEY cat_parent (parent),
+   KEY cat_pos (pos),
+   KEY cat_owner_id (owner_id)
+-) TYPE=MyISAM;
++) TYPE=MyISAM COMMENT='Used to store categories';
+ # --------------------------------------------------------
+ 
+ #
+@@ -87,7 +87,7 @@
+   author_id int(11) NOT NULL default '0',
+   PRIMARY KEY  (msg_id),
+   KEY com_pic_id (pid)
+-) TYPE=MyISAM;
++) TYPE=MyISAM COMMENT='Used to store comments made on pics';
+ # --------------------------------------------------------
+ 
+ #
+@@ -98,7 +98,7 @@
+   name varchar(40) NOT NULL default '',
+   value varchar(255) NOT NULL default '',
+   PRIMARY KEY  (name)
+-) TYPE=MyISAM;
++) TYPE=MyISAM COMMENT='Used to store the configuration options';
+ # --------------------------------------------------------
+ 
+ #
+@@ -144,7 +144,7 @@
+   KEY pic_aid (aid),
+   position INT(11) NOT NULL default '0',
+   FULLTEXT KEY search (title,caption,keywords,filename)
+-) TYPE=MyISAM;
++) TYPE=MyISAM COMMENT='Used to store data about individual pics';
+ # --------------------------------------------------------
+ 
+ #
+@@ -168,7 +168,7 @@
+   num_file_upload tinyint(4) NOT NULL default '5',
+   num_URI_upload tinyint(4) NOT NULL default '3',
+   PRIMARY KEY  (group_id)
+-) TYPE=MyISAM;
++) TYPE=MyISAM COMMENT='Used to store user groups';
+ # --------------------------------------------------------
+ 
+ #
+@@ -195,7 +195,7 @@
+ 
+   PRIMARY KEY  (user_id),
+   UNIQUE KEY user_name (user_name)
+-) TYPE=MyISAM;
++) TYPE=MyISAM COMMENT='Used to store users, not used when bridged';
+ # --------------------------------------------------------
+ 
+ #
+@@ -207,7 +207,7 @@
+   user_md5_id varchar(32) NOT NULL default '',
+   vote_time int(11) NOT NULL default '0',
+   PRIMARY KEY  (pic_id,user_md5_id)
+-) TYPE=MyISAM;
++) TYPE=MyISAM COMMENT='Stores votes for individual pics';
+ #---------------------------------------------------------
+ 
+ #
+@@ -221,7 +221,7 @@
+         expiry datetime DEFAULT NULL,
+         brute_force tinyint(5) NOT NULL default '0',
+         PRIMARY KEY  (ban_id)
+-) TYPE=MyISAM;
++) TYPE=MyISAM COMMENT='Data about banned users';
+ #---------------------------------------------------------
+ 
+ #
+@@ -232,7 +232,7 @@
+   `filename` varchar(255) NOT NULL default '',
+   `exifData` text NOT NULL,
+   UNIQUE KEY `filename` (`filename`)
+-) TYPE=MyISAM;
++) TYPE=MyISAM COMMENT='Stores EXIF data from individual pics';
+ # --------------------------------------------------------
+ 
+ #
+@@ -246,8 +246,8 @@
+   player varchar(5) default NULL,
+   PRIMARY KEY (extension)
+ ) TYPE=MyISAM COMMENT='Used to store the file extensions';
++# --------------------------------------------------------
+ 
+-
+ #
+ # Table structure for table `CPG_ecards`
+ #
+@@ -263,8 +263,8 @@
+   sender_ip tinytext NOT NULL,
+   PRIMARY KEY  (eid)
+ ) TYPE=MyISAM COMMENT='Used to log ecards';
++# --------------------------------------------------------
+ 
+-
+ #
+ # Table structure for table `CPG_plugins`
+ #
+@@ -278,8 +278,8 @@
+   UNIQUE KEY name (name),
+   UNIQUE KEY path (path)
+ ) TYPE=MyISAM COMMENT='Stores the plugins';
++# --------------------------------------------------------
+ 
+-
+ #
+ # Table structure for table `CPG_temp_data`
+ #
+@@ -289,7 +289,8 @@
+ `encoded_string` BLOB NOT NULL ,
+ `timestamp` INT( 11 ) UNSIGNED NOT NULL ,
+ PRIMARY KEY ( `unique_ID` )
+-) TYPE = MYISAM COMMENT = 'Holds temporary file data for multiple file uploads';
++) TYPE = MyISAM COMMENT = 'Holds temporary file data for multiple file uploads';
++# --------------------------------------------------------
+ 
+ #
+ # Table structure for table `CPG_favpics`
+@@ -299,7 +300,8 @@
+ `user_id` INT( 11 ) NOT NULL ,
+ `user_favpics` TEXT NOT NULL ,
+ PRIMARY KEY ( `user_id` )
+-) COMMENT = 'Stores the server side favourites';
++) TYPE = MyISAM COMMENT = 'Stores the server side favourites';
++# --------------------------------------------------------
+ 
+ #
+ # Table structure for table `CPG_dict`
+@@ -309,8 +311,8 @@
+   keyword varchar(60) NOT NULL default '',
+   PRIMARY KEY  (keyId)
+ ) TYPE=MyISAM  COMMENT = 'Holds the keyword dictionary';
++# --------------------------------------------------------
+ 
+-
+ #
+ # Table structure for table `CPG_bridge`
+ #
+@@ -319,7 +321,8 @@
+   name varchar(40) NOT NULL default '0',
+   value varchar(255) NOT NULL default '',
+   UNIQUE KEY name (name)
+-) TYPE=MyISAM;
++) TYPE=MyISAM COMMENT='Stores the bridging data, not used when unbridged';
++# --------------------------------------------------------
+ 
+ #
+ # Table structure for table `CPG_vote_stats`
+@@ -334,7 +337,8 @@
+   `browser` varchar(255) NOT NULL default '',
+   `os` varchar(50) NOT NULL default '',
+   PRIMARY KEY  (`sid`)
+-);
++) TYPE=MyISAM COMMENT='Detailed stats about votes, only used when enabled';
++# --------------------------------------------------------
+ 
+ CREATE TABLE `CPG_hit_stats` (
+   `sid` int(11) NOT NULL auto_increment,
+@@ -346,4 +350,5 @@
+   `browser` varchar(255) NOT NULL default '',
+   `os` varchar(50) NOT NULL default '',
+   PRIMARY KEY  (`sid`)
+-);
+\ No newline at end of file
++) TYPE = MyISAM COMMENT='Detailed stats about hits, only used when enabled';
++# --------------------------------------------------------
+\ No newline at end of file
+
+------------------------------------------------------------------------
+r3116 | gaugau | 2006-06-07 18:11:54 -0400 (qua, 07 jun 2006) | 1 line
+
+updated version count
+
+Index: schema.sql
+===================================================================
+--- schema.sql	(revision 3115)
++++ schema.sql	(revision 3116)
+@@ -9,7 +9,7 @@
+ ##  the Free Software Foundation; either version 2 of the License, or
+ ##  (at your option) any later version.
+ ##  ********************************************
+-##  Coppermine version: 1.4.7
++##  Coppermine version: 1.4.8
+ ##  $Source$
+ ##  $Revision$
+ ##  $Author$
+
+------------------------------------------------------------------------
+r3082 | gaugau | 2006-05-23 03:26:21 -0400 (ter, 23 mai 2006) | 1 line
+
+Increased version number in svn from 1.4.6 to 1.4.7
+
+Index: schema.sql
+===================================================================
+--- schema.sql	(revision 3081)
++++ schema.sql	(revision 3082)
+@@ -9,7 +9,7 @@
+ ##  the Free Software Foundation; either version 2 of the License, or
+ ##  (at your option) any later version.
+ ##  ********************************************
+-##  Coppermine version: 1.4.6
++##  Coppermine version: 1.4.7
+ ##  $Source$
+ ##  $Revision$
+ ##  $Author$
+
+------------------------------------------------------------------------
+r3014 | gaugau | 2006-05-09 01:44:08 -0400 (ter, 09 mai 2006) | 1 line
+
+Changed coppermine version from cpg1.4.5 to cpg1.4.6
+
+Index: schema.sql
+===================================================================
+--- schema.sql	(revision 3013)
++++ schema.sql	(revision 3014)
+@@ -9,7 +9,7 @@
+ ##  the Free Software Foundation; either version 2 of the License, or
+ ##  (at your option) any later version.
+ ##  ********************************************
+-##  Coppermine version: 1.4.5
++##  Coppermine version: 1.4.6
+ ##  $Source$
+ ##  $Revision$
+ ##  $Author$
+
+------------------------------------------------------------------------
+r2910 | gaugau | 2006-03-02 04:25:20 -0400 (qui, 02 mar 2006) | 2 lines
+
+updated version count
+
+
+Index: schema.sql
+===================================================================
+--- schema.sql	(revision 2909)
++++ schema.sql	(revision 2910)
+@@ -9,7 +9,7 @@
+ ##  the Free Software Foundation; either version 2 of the License, or
+ ##  (at your option) any later version.
+ ##  ********************************************
+-##  Coppermine version: 1.4.4
++##  Coppermine version: 1.4.5
+ ##  $Source$
+ ##  $Revision$
+ ##  $Author$
+
+------------------------------------------------------------------------
+r2897 | gaugau | 2006-02-26 07:28:29 -0400 (dom, 26 fev 2006) | 2 lines
+
+updated version count
+
+
+Index: schema.sql
+===================================================================
+--- schema.sql	(revision 2896)
++++ schema.sql	(revision 2897)
+@@ -9,7 +9,7 @@
+ ##  the Free Software Foundation; either version 2 of the License, or
+ ##  (at your option) any later version.
+ ##  ********************************************
+-##  Coppermine version: 1.4.3
++##  Coppermine version: 1.4.4
+ ##  $Source$
+ ##  $Revision$
+ ##  $Author$
+@@ -346,4 +346,4 @@
+   `browser` varchar(255) NOT NULL default '',
+   `os` varchar(50) NOT NULL default '',
+   PRIMARY KEY  (`sid`)
+-);
++);
+\ No newline at end of file
+
+------------------------------------------------------------------------
+r2891 | gaugau | 2006-02-24 09:37:01 -0400 (sex, 24 fev 2006) | 2 lines
+
+Fixed typo in file header
+
+
+Index: schema.sql
+===================================================================
+--- schema.sql	(revision 2890)
++++ schema.sql	(revision 2891)
+@@ -2,7 +2,7 @@
+ ##  Coppermine Photo Gallery
+ ##  ************************
+ ##  Copyright (c) 2003-2006 Coppermine Dev Team
+-##  v1.1 originaly written by Gregory DEMAR
++##  v1.1 originally written by Gregory DEMAR
+ ##
+ ##  This program is free software; you can redistribute it and/or modify
+ ##  it under the terms of the GNU General Public License as published by
+
+------------------------------------------------------------------------
+r2845 | gaugau | 2006-02-18 06:11:30 -0400 (sáb, 18 fev 2006) | 2 lines
+
+Increased version count from 1.4.3 to 1.4.4
+
+
+Index: schema.sql
+===================================================================
+--- schema.sql	(revision 2844)
++++ schema.sql	(revision 2845)
+@@ -1,7 +1,7 @@
+ ##  ********************************************
+ ##  Coppermine Photo Gallery
+ ##  ************************
+-##  Copyright (c) 2003-2005 Coppermine Dev Team
++##  Copyright (c) 2003-2006 Coppermine Dev Team
+ ##  v1.1 originaly written by Gregory DEMAR
+ ##
+ ##  This program is free software; you can redistribute it and/or modify
+
+------------------------------------------------------------------------
+r2657 | gaugau | 2005-11-28 03:45:45 -0400 (seg, 28 nov 2005) | 2 lines
+
+updated version count
+
+
+Index: schema.sql
+===================================================================
+--- schema.sql	(revision 2656)
++++ schema.sql	(revision 2657)
+@@ -9,7 +9,7 @@
+ ##  the Free Software Foundation; either version 2 of the License, or
+ ##  (at your option) any later version.
+ ##  ********************************************
+-##  Coppermine version: 1.4.2
++##  Coppermine version: 1.4.3
+ ##  $Source$
+ ##  $Revision$
+ ##  $Author$
+
+------------------------------------------------------------------------
+r2634 | nibbler999 | 2005-11-25 15:13:16 -0400 (sex, 25 nov 2005) | 2 lines
+
+MySQL5 album description fix
+
+
+Index: schema.sql
+===================================================================
+--- schema.sql	(revision 2633)
++++ schema.sql	(revision 2634)
+@@ -36,7 +36,7 @@
+ CREATE TABLE CPG_albums (
+   aid int(11) NOT NULL auto_increment,
+   title varchar(255) NOT NULL default '',
+-  description text NOT NULL,
++  description text NOT NULL default '',
+   visibility int(11) NOT NULL default '0',
+   uploads enum('YES','NO') NOT NULL default 'NO',
+   comments enum('YES','NO') NOT NULL default 'YES',
+
+------------------------------------------------------------------------
+r2626 | abbas-ali | 2005-11-25 04:35:25 -0400 (sex, 25 nov 2005) | 2 lines
+
+moving files from devel to stable
+
+
+Index: schema.sql
+===================================================================
+--- schema.sql	(revision 2625)
++++ schema.sql	(revision 2626)
+@@ -1,21 +1,34 @@
+-#*************************
+-#  Coppermine Photo Gallery
+-#  ************************
+-#  Copyright (c) 2003-2005 Coppermine Dev Team
+-#  v1.1 originaly written by Gregory DEMAR
++##  ********************************************
++##  Coppermine Photo Gallery
++##  ************************
++##  Copyright (c) 2003-2005 Coppermine Dev Team
++##  v1.1 originaly written by Gregory DEMAR
++##
++##  This program is free software; you can redistribute it and/or modify
++##  it under the terms of the GNU General Public License as published by
++##  the Free Software Foundation; either version 2 of the License, or
++##  (at your option) any later version.
++##  ********************************************
++##  Coppermine version: 1.4.2
++##  $Source$
++##  $Revision$
++##  $Author$
++##  $Date$
++##  ********************************************
++
+ #
+-#  This program is free software; you can redistribute it and/or modify
+-#  it under the terms of the GNU General Public License as published by
+-#  the Free Software Foundation; either version 2 of the License, or
+-#  (at your option) any later version.
+-#  ********************************************
+-#  Coppermine version: 1.3.5
+-#  $Source$
+-#  $Revision$
+-#  $Author$
+-#  $Date$
+-#**********************************************
++# Table structure for table `CPG_sessions`
++#
+ 
++CREATE TABLE IF NOT EXISTS CPG_sessions (
++  session_id varchar(40) NOT NULL default '',
++  user_id int(11) default '0',
++  time int(11) default NULL,
++  remember int(1) default '0',
++  PRIMARY KEY (session_id)
++) TYPE=MyISAM COMMENT='Used to store sessions';
++
++
+ #
+ # Table structure for table `CPG_albums`
+ #
+@@ -30,11 +43,10 @@
+   votes enum('YES','NO') NOT NULL default 'YES',
+   pos int(11) NOT NULL default '0',
+   category int(11) NOT NULL default '0',
+-  pic_count int(11) NOT NULL default '0',
+   thumb int(11) NOT NULL default '0',
+-  last_addition datetime NOT NULL default '0000-00-00 00:00:00',
+-  stat_uptodate enum('YES','NO') NOT NULL default 'NO',
+   keyword VARCHAR( 50 ),
++  alb_password VARCHAR( 32 ),
++  alb_password_hint TEXT,
+   PRIMARY KEY  (aid),
+   KEY alb_category (category)
+ ) TYPE=MyISAM;
+@@ -52,10 +64,6 @@
+   pos int(11) NOT NULL default '0',
+   parent int(11) NOT NULL default '0',
+   thumb int(11) NOT NULL default '0',
+-  subcat_count int(11) NOT NULL default '0',
+-  alb_count int(11) NOT NULL default '0',
+-  pic_count int(11) NOT NULL default '0',
+-  stat_uptodate enum('YES','NO') NOT NULL default 'NO',
+   PRIMARY KEY  (cid),
+   KEY cat_parent (parent),
+   KEY cat_pos (pos),
+@@ -107,7 +115,7 @@
+   pwidth smallint(6) NOT NULL default '0',
+   pheight smallint(6) NOT NULL default '0',
+   hits int(10) NOT NULL default '0',
+-  mtime timestamp(14) NOT NULL,
++  mtime datetime NOT NULL default '0000-00-00 00:00:00' ,
+   ctime int(11) NOT NULL default '0',
+   owner_id int(11) NOT NULL default '0',
+   owner_name varchar(40) NOT NULL default '',
+@@ -117,21 +125,24 @@
+   caption text NOT NULL,
+   keywords varchar(255) NOT NULL default '',
+   approved enum('YES','NO') NOT NULL default 'NO',
++  galleryicon int(11) NOT NULL default '0',
+   user1 varchar(255) NOT NULL default '',
+   user2 varchar(255) NOT NULL default '',
+   user3 varchar(255) NOT NULL default '',
+   user4 varchar(255) NOT NULL default '',
+   url_prefix tinyint(4) NOT NULL default '0',
+-  randpos int(11) NOT NULL default '0',
++#  randpos int(11) NOT NULL default '0',
+   pic_raw_ip tinytext,
+   pic_hdr_ip tinytext,
++  lasthit_ip tinytext,
+   PRIMARY KEY  (pid),
+   KEY owner_id (owner_id),
+   KEY pic_hits (hits),
+   KEY pic_rate (pic_rating),
+   KEY aid_approved (aid,approved),
+-  KEY randpos (randpos),
++#  KEY randpos (randpos),
+   KEY pic_aid (aid),
++  position INT(11) NOT NULL default '0',
+   FULLTEXT KEY search (title,caption,keywords,filename)
+ ) TYPE=MyISAM;
+ # --------------------------------------------------------
+@@ -169,16 +180,19 @@
+   user_group int(11) NOT NULL default '2',
+   user_active enum('YES','NO') NOT NULL default 'NO',
+   user_name varchar(25) NOT NULL default '',
+-  user_password varchar(25) NOT NULL default '',
++  user_password varchar(40) NOT NULL default '',
+   user_lastvisit datetime NOT NULL default '0000-00-00 00:00:00',
+   user_regdate datetime NOT NULL default '0000-00-00 00:00:00',
+   user_group_list varchar(255) NOT NULL default '',
+   user_email varchar(255) NOT NULL default '',
+-  user_website varchar(255) NOT NULL default '',
+-  user_location varchar(255) NOT NULL default '',
+-  user_interests varchar(255) NOT NULL default '',
+-  user_occupation varchar(255) NOT NULL default '',
++  user_profile1 varchar(255) NOT NULL default '',
++  user_profile2 varchar(255) NOT NULL default '',
++  user_profile3 varchar(255) NOT NULL default '',
++  user_profile4 varchar(255) NOT NULL default '',
++  user_profile5 varchar(255) NOT NULL default '',
++  user_profile6 text NOT NULL default '',
+   user_actkey varchar(32) NOT NULL default '',
++
+   PRIMARY KEY  (user_id),
+   UNIQUE KEY user_name (user_name)
+ ) TYPE=MyISAM;
+@@ -205,6 +219,7 @@
+         user_id int(11) DEFAULT NULL,
+         ip_addr tinytext DEFAULT NULL,
+         expiry datetime DEFAULT NULL,
++        brute_force tinyint(5) NOT NULL default '0',
+         PRIMARY KEY  (ban_id)
+ ) TYPE=MyISAM;
+ #---------------------------------------------------------
+@@ -228,6 +243,7 @@
+   extension char(7) NOT NULL default '',
+   mime char(30) default NULL,
+   content char(15) default NULL,
++  player varchar(5) default NULL,
+   PRIMARY KEY (extension)
+ ) TYPE=MyISAM COMMENT='Used to store the file extensions';
+ 
+@@ -249,7 +265,21 @@
+ ) TYPE=MyISAM COMMENT='Used to log ecards';
+ 
+ 
++#
++# Table structure for table `CPG_plugins`
++#
+ 
++CREATE TABLE CPG_plugins (
++  plugin_id int(10) unsigned NOT NULL auto_increment,
++  name varchar(64) NOT NULL default '',
++  path varchar(128) NOT NULL default '',
++  priority int(10) unsigned NOT NULL default '0',
++  PRIMARY KEY  (plugin_id),
++  UNIQUE KEY name (name),
++  UNIQUE KEY path (path)
++) TYPE=MyISAM COMMENT='Stores the plugins';
++
++
+ #
+ # Table structure for table `CPG_temp_data`
+ #
+@@ -260,3 +290,60 @@
+ `timestamp` INT( 11 ) UNSIGNED NOT NULL ,
+ PRIMARY KEY ( `unique_ID` )
+ ) TYPE = MYISAM COMMENT = 'Holds temporary file data for multiple file uploads';
++
++#
++# Table structure for table `CPG_favpics`
++#
++
++CREATE TABLE `CPG_favpics` (
++`user_id` INT( 11 ) NOT NULL ,
++`user_favpics` TEXT NOT NULL ,
++PRIMARY KEY ( `user_id` )
++) COMMENT = 'Stores the server side favourites';
++
++#
++# Table structure for table `CPG_dict`
++#
++CREATE TABLE CPG_dict (
++  keyId bigint(20) NOT NULL auto_increment,
++  keyword varchar(60) NOT NULL default '',
++  PRIMARY KEY  (keyId)
++) TYPE=MyISAM  COMMENT = 'Holds the keyword dictionary';
++
++
++#
++# Table structure for table `CPG_bridge`
++#
++
++CREATE TABLE CPG_bridge (
++  name varchar(40) NOT NULL default '0',
++  value varchar(255) NOT NULL default '',
++  UNIQUE KEY name (name)
++) TYPE=MyISAM;
++
++#
++# Table structure for table `CPG_vote_stats`
++#
++CREATE TABLE `CPG_vote_stats` (
++  `sid` int(11) NOT NULL auto_increment,
++  `pid` varchar(100) NOT NULL default '',
++  `rating` smallint(6) NOT NULL default '0',
++  `ip` varchar(20) NOT NULL default '',
++  `sdate` bigint(20) NOT NULL default '0',
++  `referer` text NOT NULL,
++  `browser` varchar(255) NOT NULL default '',
++  `os` varchar(50) NOT NULL default '',
++  PRIMARY KEY  (`sid`)
++);
++
++CREATE TABLE `CPG_hit_stats` (
++  `sid` int(11) NOT NULL auto_increment,
++  `pid` varchar(100) NOT NULL default '',
++  `ip` varchar(20) NOT NULL default '',
++  `search_phrase` varchar(255) NOT NULL default '',
++  `sdate` bigint(20) NOT NULL default '0',
++  `referer` text NOT NULL,
++  `browser` varchar(255) NOT NULL default '',
++  `os` varchar(50) NOT NULL default '',
++  PRIMARY KEY  (`sid`)
++);
+
+------------------------------------------------------------------------
+r2534 | gaugau | 2005-09-24 12:32:10 -0400 (sáb, 24 set 2005) | 2 lines
+
+increased version number in file header to 1.3.5
+
+
+Index: schema.sql
+===================================================================
+--- schema.sql	(revision 2533)
++++ schema.sql	(revision 2534)
+@@ -9,7 +9,7 @@
+ #  the Free Software Foundation; either version 2 of the License, or
+ #  (at your option) any later version.
+ #  ********************************************
+-#  Coppermine version: 1.3.4
++#  Coppermine version: 1.3.5
+ #  $Source$
+ #  $Revision$
+ #  $Author$
+@@ -259,4 +259,4 @@
+ `encoded_string` BLOB NOT NULL ,
+ `timestamp` INT( 11 ) UNSIGNED NOT NULL ,
+ PRIMARY KEY ( `unique_ID` )
+-) TYPE = MYISAM COMMENT = 'Holds temporary file data for multiple file uploads';
+\ No newline at end of file
++) TYPE = MYISAM COMMENT = 'Holds temporary file data for multiple file uploads';
+
+------------------------------------------------------------------------
+r2465 | gaugau | 2005-08-19 03:08:49 -0400 (sex, 19 ago 2005) | 2 lines
+
+changed version info from cpg1.3.3 to cpg1.3.4
+
+
+Index: schema.sql
+===================================================================
+--- schema.sql	(revision 2464)
++++ schema.sql	(revision 2465)
+@@ -9,7 +9,7 @@
+ #  the Free Software Foundation; either version 2 of the License, or
+ #  (at your option) any later version.
+ #  ********************************************
+-#  Coppermine version: 1.3.3
++#  Coppermine version: 1.3.4
+ #  $Source$
+ #  $Revision$
+ #  $Author$
+
+------------------------------------------------------------------------
+r2306 | gaugau | 2005-04-18 23:17:16 -0400 (seg, 18 abr 2005) | 2 lines
+
+Changed file headers and version numbers from cpg1.3.2 to cpg1.3.3
+
+
+Index: schema.sql
+===================================================================
+--- schema.sql	(revision 2305)
++++ schema.sql	(revision 2306)
+@@ -1,4 +1,20 @@
+-# $Id$
++#*************************
++#  Coppermine Photo Gallery
++#  ************************
++#  Copyright (c) 2003-2005 Coppermine Dev Team
++#  v1.1 originaly written by Gregory DEMAR
++#
++#  This program is free software; you can redistribute it and/or modify
++#  it under the terms of the GNU General Public License as published by
++#  the Free Software Foundation; either version 2 of the License, or
++#  (at your option) any later version.
++#  ********************************************
++#  Coppermine version: 1.3.3
++#  $Source$
++#  $Revision$
++#  $Author$
++#  $Date$
++#**********************************************
+ 
+ #
+ # Table structure for table `CPG_albums`
+@@ -242,5 +258,5 @@
+ `unique_ID` CHAR( 8 ) NOT NULL ,
+ `encoded_string` BLOB NOT NULL ,
+ `timestamp` INT( 11 ) UNSIGNED NOT NULL ,
+-PRIMARY KEY ( `unique_ID` ) 
+-) TYPE = MYISAM COMMENT = 'Holds temporary file data for multiple file uploads';
++PRIMARY KEY ( `unique_ID` )
++) TYPE = MYISAM COMMENT = 'Holds temporary file data for multiple file uploads';
+\ No newline at end of file
+
+------------------------------------------------------------------------
+r950 | oddeveloper | 2004-06-30 06:56:28 -0400 (qua, 30 jun 2004) | 2 lines
+
+Fixed "> 1k users --> very slow" bug
+
+
+Index: schema.sql
+===================================================================
+--- schema.sql	(revision 949)
++++ schema.sql	(revision 950)
+@@ -110,6 +110,7 @@
+   pic_raw_ip tinytext,
+   pic_hdr_ip tinytext,
+   PRIMARY KEY  (pid),
++  KEY owner_id (owner_id),
+   KEY pic_hits (hits),
+   KEY pic_rate (pic_rating),
+   KEY aid_approved (aid,approved),
+
+------------------------------------------------------------------------
+r814 | tarique | 2004-06-11 05:20:11 -0400 (sex, 11 jun 2004) | 2 lines
+
+The latest 1.3 stable
+
+
+Index: schema.sql
+===================================================================
+--- schema.sql	(revision 813)
++++ schema.sql	(revision 814)
+@@ -1,3 +1,5 @@
++# $Id$
++
+ #
+ # Table structure for table `CPG_albums`
+ #
+@@ -16,6 +18,7 @@
+   thumb int(11) NOT NULL default '0',
+   last_addition datetime NOT NULL default '0000-00-00 00:00:00',
+   stat_uptodate enum('YES','NO') NOT NULL default 'NO',
++  keyword VARCHAR( 50 ),
+   PRIMARY KEY  (aid),
+   KEY alb_category (category)
+ ) TYPE=MyISAM;
+@@ -32,6 +35,7 @@
+   description text NOT NULL,
+   pos int(11) NOT NULL default '0',
+   parent int(11) NOT NULL default '0',
++  thumb int(11) NOT NULL default '0',
+   subcat_count int(11) NOT NULL default '0',
+   alb_count int(11) NOT NULL default '0',
+   pic_count int(11) NOT NULL default '0',
+@@ -131,6 +135,10 @@
+   can_create_albums tinyint(4) NOT NULL default '0',
+   pub_upl_need_approval tinyint(4) NOT NULL default '1',
+   priv_upl_need_approval tinyint(4) NOT NULL default '1',
++  upload_form_config tinyint(4) NOT NULL default '3',
++  custom_user_upload tinyint(4) NOT NULL default '0',
++  num_file_upload tinyint(4) NOT NULL default '5',
++  num_URI_upload tinyint(4) NOT NULL default '3',
+   PRIMARY KEY  (group_id)
+ ) TYPE=MyISAM;
+ # --------------------------------------------------------
+@@ -147,7 +155,7 @@
+   user_password varchar(25) NOT NULL default '',
+   user_lastvisit datetime NOT NULL default '0000-00-00 00:00:00',
+   user_regdate datetime NOT NULL default '0000-00-00 00:00:00',
+-  user_lang varchar(255) NOT NULL default '',
++  user_group_list varchar(255) NOT NULL default '',
+   user_email varchar(255) NOT NULL default '',
+   user_website varchar(255) NOT NULL default '',
+   user_location varchar(255) NOT NULL default '',
+@@ -176,10 +184,62 @@
+ #
+ 
+ CREATE TABLE CPG_banned (
+-	ban_id int(11) NOT NULL auto_increment,
+-	user_id int(11) DEFAULT NULL,
+-	ip_addr tinytext DEFAULT NULL,
+-	expiry datetime DEFAULT NULL,
+-	PRIMARY KEY  (ban_id)
++        ban_id int(11) NOT NULL auto_increment,
++        user_id int(11) DEFAULT NULL,
++        ip_addr tinytext DEFAULT NULL,
++        expiry datetime DEFAULT NULL,
++        PRIMARY KEY  (ban_id)
+ ) TYPE=MyISAM;
++#---------------------------------------------------------
+ 
++#
++# Table structure for table `CPG_exif`
++#
++
++CREATE TABLE CPG_exif (
++  `filename` varchar(255) NOT NULL default '',
++  `exifData` text NOT NULL,
++  UNIQUE KEY `filename` (`filename`)
++) TYPE=MyISAM;
++# --------------------------------------------------------
++
++#
++# Table structure for table `CPG_filetypes`
++#
++
++CREATE TABLE IF NOT EXISTS CPG_filetypes (
++  extension char(7) NOT NULL default '',
++  mime char(30) default NULL,
++  content char(15) default NULL,
++  PRIMARY KEY (extension)
++) TYPE=MyISAM COMMENT='Used to store the file extensions';
++
++
++#
++# Table structure for table `CPG_ecards`
++#
++
++CREATE TABLE CPG_ecards (
++  eid int(11) NOT NULL auto_increment,
++  sender_name varchar(50) NOT NULL default '',
++  sender_email text NOT NULL,
++  recipient_name varchar(50) NOT NULL default '',
++  recipient_email text NOT NULL,
++  link text NOT NULL,
++  date tinytext NOT NULL,
++  sender_ip tinytext NOT NULL,
++  PRIMARY KEY  (eid)
++) TYPE=MyISAM COMMENT='Used to log ecards';
++
++
++
++#
++# Table structure for table `CPG_temp_data`
++#
++
++CREATE TABLE IF NOT EXISTS `CPG_temp_data` (
++`unique_ID` CHAR( 8 ) NOT NULL ,
++`encoded_string` BLOB NOT NULL ,
++`timestamp` INT( 11 ) UNSIGNED NOT NULL ,
++PRIMARY KEY ( `unique_ID` ) 
++) TYPE = MYISAM COMMENT = 'Holds temporary file data for multiple file uploads';
+
+------------------------------------------------------------------------
+r252 | tarique | 2003-10-15 08:24:16 -0400 (qua, 15 out 2003) | 2 lines
+
+Initial - devel check out of 1.2
+
+
+Index: schema.sql
+===================================================================
+--- schema.sql	(nonexistent)
++++ schema.sql	(revision 252)
+@@ -0,0 +1,185 @@
++#
++# Table structure for table `CPG_albums`
++#
++
++CREATE TABLE CPG_albums (
++  aid int(11) NOT NULL auto_increment,
++  title varchar(255) NOT NULL default '',
++  description text NOT NULL,
++  visibility int(11) NOT NULL default '0',
++  uploads enum('YES','NO') NOT NULL default 'NO',
++  comments enum('YES','NO') NOT NULL default 'YES',
++  votes enum('YES','NO') NOT NULL default 'YES',
++  pos int(11) NOT NULL default '0',
++  category int(11) NOT NULL default '0',
++  pic_count int(11) NOT NULL default '0',
++  thumb int(11) NOT NULL default '0',
++  last_addition datetime NOT NULL default '0000-00-00 00:00:00',
++  stat_uptodate enum('YES','NO') NOT NULL default 'NO',
++  PRIMARY KEY  (aid),
++  KEY alb_category (category)
++) TYPE=MyISAM;
++# --------------------------------------------------------
++
++#
++# Table structure for table `CPG_categories`
++#
++
++CREATE TABLE CPG_categories (
++  cid int(11) NOT NULL auto_increment,
++  owner_id int(11) NOT NULL default '0',
++  name varchar(255) NOT NULL default '',
++  description text NOT NULL,
++  pos int(11) NOT NULL default '0',
++  parent int(11) NOT NULL default '0',
++  subcat_count int(11) NOT NULL default '0',
++  alb_count int(11) NOT NULL default '0',
++  pic_count int(11) NOT NULL default '0',
++  stat_uptodate enum('YES','NO') NOT NULL default 'NO',
++  PRIMARY KEY  (cid),
++  KEY cat_parent (parent),
++  KEY cat_pos (pos),
++  KEY cat_owner_id (owner_id)
++) TYPE=MyISAM;
++# --------------------------------------------------------
++
++#
++# Table structure for table `CPG_comments`
++#
++
++CREATE TABLE CPG_comments (
++  pid mediumint(10) NOT NULL default '0',
++  msg_id mediumint(10) NOT NULL auto_increment,
++  msg_author varchar(25) NOT NULL default '',
++  msg_body text NOT NULL,
++  msg_date datetime NOT NULL default '0000-00-00 00:00:00',
++  msg_raw_ip tinytext,
++  msg_hdr_ip tinytext,
++  author_md5_id varchar(32) NOT NULL default '',
++  author_id int(11) NOT NULL default '0',
++  PRIMARY KEY  (msg_id),
++  KEY com_pic_id (pid)
++) TYPE=MyISAM;
++# --------------------------------------------------------
++
++#
++# Table structure for table `CPG_config`
++#
++
++CREATE TABLE CPG_config (
++  name varchar(40) NOT NULL default '',
++  value varchar(255) NOT NULL default '',
++  PRIMARY KEY  (name)
++) TYPE=MyISAM;
++# --------------------------------------------------------
++
++#
++# Table structure for table `CPG_pictures`
++#
++
++CREATE TABLE CPG_pictures (
++  pid int(11) NOT NULL auto_increment,
++  aid int(11) NOT NULL default '0',
++  filepath varchar(255) NOT NULL default '',
++  filename varchar(255) NOT NULL default '',
++  filesize int(11) NOT NULL default '0',
++  total_filesize int(11) NOT NULL default '0',
++  pwidth smallint(6) NOT NULL default '0',
++  pheight smallint(6) NOT NULL default '0',
++  hits int(10) NOT NULL default '0',
++  mtime timestamp(14) NOT NULL,
++  ctime int(11) NOT NULL default '0',
++  owner_id int(11) NOT NULL default '0',
++  owner_name varchar(40) NOT NULL default '',
++  pic_rating int(11) NOT NULL default '0',
++  votes int(11) NOT NULL default '0',
++  title varchar(255) NOT NULL default '',
++  caption text NOT NULL,
++  keywords varchar(255) NOT NULL default '',
++  approved enum('YES','NO') NOT NULL default 'NO',
++  user1 varchar(255) NOT NULL default '',
++  user2 varchar(255) NOT NULL default '',
++  user3 varchar(255) NOT NULL default '',
++  user4 varchar(255) NOT NULL default '',
++  url_prefix tinyint(4) NOT NULL default '0',
++  randpos int(11) NOT NULL default '0',
++  pic_raw_ip tinytext,
++  pic_hdr_ip tinytext,
++  PRIMARY KEY  (pid),
++  KEY pic_hits (hits),
++  KEY pic_rate (pic_rating),
++  KEY aid_approved (aid,approved),
++  KEY randpos (randpos),
++  KEY pic_aid (aid),
++  FULLTEXT KEY search (title,caption,keywords,filename)
++) TYPE=MyISAM;
++# --------------------------------------------------------
++
++#
++# Table structure for table `CPG_usergroups`
++#
++
++CREATE TABLE CPG_usergroups (
++  group_id int(11) NOT NULL auto_increment,
++  group_name varchar(255) NOT NULL default '',
++  group_quota int(11) NOT NULL default '0',
++  has_admin_access tinyint(4) NOT NULL default '0',
++  can_rate_pictures tinyint(4) NOT NULL default '0',
++  can_send_ecards tinyint(4) NOT NULL default '0',
++  can_post_comments tinyint(4) NOT NULL default '0',
++  can_upload_pictures tinyint(4) NOT NULL default '0',
++  can_create_albums tinyint(4) NOT NULL default '0',
++  pub_upl_need_approval tinyint(4) NOT NULL default '1',
++  priv_upl_need_approval tinyint(4) NOT NULL default '1',
++  PRIMARY KEY  (group_id)
++) TYPE=MyISAM;
++# --------------------------------------------------------
++
++#
++# Table structure for table `CPG_users`
++#
++
++CREATE TABLE CPG_users (
++  user_id int(11) NOT NULL auto_increment,
++  user_group int(11) NOT NULL default '2',
++  user_active enum('YES','NO') NOT NULL default 'NO',
++  user_name varchar(25) NOT NULL default '',
++  user_password varchar(25) NOT NULL default '',
++  user_lastvisit datetime NOT NULL default '0000-00-00 00:00:00',
++  user_regdate datetime NOT NULL default '0000-00-00 00:00:00',
++  user_lang varchar(255) NOT NULL default '',
++  user_email varchar(255) NOT NULL default '',
++  user_website varchar(255) NOT NULL default '',
++  user_location varchar(255) NOT NULL default '',
++  user_interests varchar(255) NOT NULL default '',
++  user_occupation varchar(255) NOT NULL default '',
++  user_actkey varchar(32) NOT NULL default '',
++  PRIMARY KEY  (user_id),
++  UNIQUE KEY user_name (user_name)
++) TYPE=MyISAM;
++# --------------------------------------------------------
++
++#
++# Table structure for table `CPG_votes`
++#
++
++CREATE TABLE CPG_votes (
++  pic_id mediumint(9) NOT NULL default '0',
++  user_md5_id varchar(32) NOT NULL default '',
++  vote_time int(11) NOT NULL default '0',
++  PRIMARY KEY  (pic_id,user_md5_id)
++) TYPE=MyISAM;
++#---------------------------------------------------------
++
++#
++# Table structure for table `CPG_banned`
++#
++
++CREATE TABLE CPG_banned (
++	ban_id int(11) NOT NULL auto_increment,
++	user_id int(11) DEFAULT NULL,
++	ip_addr tinytext DEFAULT NULL,
++	expiry datetime DEFAULT NULL,
++	PRIMARY KEY  (ban_id)
++) TYPE=MyISAM;
++
+
+Property changes on: schema.sql
+___________________________________________________________________
+Added: svn:eol-style
+## -0,0 +1 ##
++native
+\ No newline at end of property
+Added: svn:keywords
+## -0,0 +1 ##
++Author Date Id Revision
+\ No newline at end of property
+
+------------------------------------------------------------------------
